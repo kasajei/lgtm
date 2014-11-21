@@ -1,0 +1,25 @@
+# MacOSX
+.DS_Store
+
+# IDEA
+.idea
+.elasticbeanstalk/
+
+# SQLite
+DEBUG
+db.sqlite3
+
+# Django
+*.pyo
+*.pyc
+.installed.cfg
+bin
+develop-eggs
+dist
+downloads
+eggs
+parts
+src/*.egg-info
+lib
+lib64
+supervisord.log
